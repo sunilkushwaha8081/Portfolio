@@ -11,13 +11,6 @@ This is my personal portfolio website.
 ## 🛠️ Technologies Used
 - HTML
 - CSS
-- JavaScript
-
-## 📷 Screenshot
-(Add your project screenshot here)
-
-## 🔗 Live Demo
-(Add your website link here)
 
 ## 👨‍💻 Author
 Sunil Kushwaha
